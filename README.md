@@ -11,7 +11,7 @@ Try out a working example on [JSFiddle](https://jsfiddle.net/solodev/nybm4pa7/).
 
 ## HTML
 
-Within this tutorial, a specific image can be given the animated scroll effect by giving it the calss "featuredImage". Additionally, each image is initially given the "hiddenImg" class so that it is not visible upon immediate page load.
+Within this tutorial, a specific image can be given the animated scroll effect by giving it the class "featuredImage". Additionally, each image is initially given the "hiddenImg" class so that it is not visible upon immediate page load.
 
 ```
 <section>
