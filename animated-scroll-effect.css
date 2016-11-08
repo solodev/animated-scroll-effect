@@ -1,0 +1,45 @@
+.heading {
+  margin: 0 auto;
+  margin-bottom: 50px;
+  border-bottom: 1px solid #eceaea;
+  max-width: 720px;
+  text-align: center;
+}
+
+section {
+  padding: 100px 0;
+  border-bottom: 1px solid #eceaea;
+  max-width: 720px;
+  margin: 0 auto;
+}
+section .animated {
+  animation-duration: 2s;
+}
+.productFeature {
+  padding-right: 50px;  
+}
+.hiddenImg {
+  opacity:0;
+}
+.visibleImg {
+  opacity:1;
+}
+.fa {
+  font-size: 20em;
+}
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translate3d(0, 20px, 0);
+  }
+
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+.fadeInUp {
+  animation-name: fadeInUp;
+}
