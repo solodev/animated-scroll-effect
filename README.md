@@ -1,9 +1,9 @@
 # animated-scroll-effect
-
+Animated images are more engaging to site visitors than static images. In this tutorial, [Solodev](https://www.solodev.com/) will show you how to add an animated scroll effect to your website's images using [Animate.css](https://daneden.github.io/animate.css/) and the [Viewport checker](https://github.com/dirkgroenen/jQuery-viewport-checker) jQuery plugin. 
 
 ## Tutorial
 
-For detailed instructions, view Solodev's [Article TITLE]() article.
+For detailed instructions, view Solodev's [Adding an Animated Scroll Effect to your Images](https://www.solodev.com/blog/web-design/adding-an-animated-scroll-effect-to-your-images.stml) article.
 
 ## Demo
 
